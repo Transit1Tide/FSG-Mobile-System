@@ -1,0 +1,11 @@
+{
+    "format_version": "1.16.10",
+    "minecraft:block": {
+        "description": {
+            "identifier": "mc:gravel"
+        },
+        "components": {
+            "minecraft:loot": "loot_tables/blocks/gravel.json"
+        }
+    }
+}
