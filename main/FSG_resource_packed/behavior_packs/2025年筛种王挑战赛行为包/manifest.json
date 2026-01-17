@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Made by Twinkle_star",
+        "name": "2025年筛种王挑战赛行为包",
+        "uuid": "39e4061c-99f7-4f89-b5d8-281b992d77f3",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            13,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "qq:3514615578",
+            "type": "data",
+            "uuid": "59f6b0f5-9533-46b6-930d-385e3c9a7c9c",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

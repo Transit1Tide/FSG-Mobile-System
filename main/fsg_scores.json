@@ -1,0 +1,41 @@
+{
+  "scores": [
+    {
+      "timestamp": "2026-01-17 14:33:51",
+      "seed": "1289516229",
+      "village_type": "云杉村",
+      "total_score": 0,
+      "penalty_score": 0,
+      "village_score": 0,
+      "pure_trial_score": 0,
+      "old_rank_type": "wood",
+      "increased_drop_rate": false,
+      "success": false,
+      "is_gold_plus": false
+    },
+    {
+      "timestamp": "2026-01-17 15:09:36",
+      "seed": "73844521",
+      "village_type": "沙漠村",
+      "total_score": 0,
+      "penalty_score": 0,
+      "village_score": 0,
+      "pure_trial_score": 0,
+      "old_rank_type": "wood",
+      "increased_drop_rate": false,
+      "success": false,
+      "is_gold_plus": false
+    }
+  ],
+  "total_score": 0,
+  "current_rank": "木头III",
+  "rank_progress": 0.0,
+  "rank_stars": 0,
+  "best_time": null,
+  "best_seed": null,
+  "best_village_type": null,
+  "total_attempts": 2,
+  "successful_attempts": 0,
+  "top_scores": [],
+  "last_modified": "2026-01-17 15:09:36"
+}
