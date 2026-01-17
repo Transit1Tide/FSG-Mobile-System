@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Made by Twinkle_star",
+        "name": "seed_invisible",
+        "uuid": "8ec9e1c2-1b58-4c18-92cc-6f4cef42f626",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            13,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "qq:3514615578",
+            "type": "resources",
+            "uuid": "0543afc7-ef31-4ca5-b7ea-74b1f59a549b",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
